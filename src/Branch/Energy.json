@@ -1,0 +1,237 @@
+[
+    [
+      { "_comment": "Energy 1st Semester | Total Credit Hours = 18.00",
+        "courseName": "Computer Programming",
+        "theoryCredits": 2,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Engineering Mechanics",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Islamic Studies or Ethics",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Calculus",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      }
+      ,
+      {
+        "courseName": "Applied Physics",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Introduction to Energy Engineering",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      }
+      
+    ],
+    [
+      { "_comment": "Energy 2nd Semester | Total Credit Hours = 17.00",
+        "courseName": "Workshop Technology",
+        "theoryCredits": 0,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Electrical Circuits and Networks",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Pakistan Studies",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Mechanics of Materials",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Engineering Drawing, Graphics, and CAD",
+        "theoryCredits": 2,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Differential Equations",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      }
+    ],
+    [
+      { "_comment": "Energy 3rd Semester | Total Credit Hours = 17.00",
+        "courseName": "Engineering Thermodynamics",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Linear Algebra",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Fluid Mechanics",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Engineering Materials",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "English Composition and Comprehension",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      }
+    ],
+    [
+      { "_comment": "Energy 4th Semester | Total Credit Hours = 18.00",
+        "courseName": "Numerical Analysis",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Instrumentation & Measurements",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Heat and Mass Transfer",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Probability and Statistics",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Solar Energy Systems",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      }
+    ],
+    [
+      { "_comment": "Energy 5th Semester | Total Credit Hours = 18.00",
+        "courseName": "Communication & Presentation Skills",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Electrical Machines",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Wind and Hydro Power Conversion",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Power Plants Engineering",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Reliability & Maintenance Engineering",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Organizational Behavior",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      }
+      
+    ],
+    [
+      { "_comment": "Energy 6th Semester | Total Credit Hours = 18.00",
+        "courseName": "Control Systems",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Internal Combustion (IC) Engines",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Engineering Management",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Heating Ventilation and Air-conditioning (HVAC) Systems",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Power System Engineering",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      }
+    ],
+    [
+      { "_comment": "Energy 7th Semester | Total Credit Hours = 16.00",
+        "courseName": "Energy Audit and Conservation",
+        "theoryCredits": 2,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Natural Gas Engineering",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Engineering Elective I",
+        "theoryCredits": 2,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Engineering Elective II",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      },
+      {
+        "courseName": "Project and Report-I",
+        "theoryCredits": 0,
+        "practicalCredits": 3
+      }
+    ],
+    [
+      { "_comment": "Energy 8th Semester | Total Credit Hours = 15.00",
+        "courseName": "Energy Economics, Policy and Management",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Entrepreneurship",
+        "theoryCredits": 2,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Engineering Elective III",
+        "theoryCredits": 3,
+        "practicalCredits": 1
+      }
+      ,
+      {
+        "courseName": "Engineering Elective IV",
+        "theoryCredits": 3,
+        "practicalCredits": 0
+      },
+      {
+        "courseName": "Project & Report-II",
+        "theoryCredits": 0,
+        "practicalCredits": 3
+      }
+    ]
+  ]

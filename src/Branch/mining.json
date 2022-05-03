@@ -1,0 +1,267 @@
+[
+	[
+		{	"_comment": "Mining 1st Semester | Total Credit Hours = 18.00",
+			"courseName": "Mining Engineering Fundamentals",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Applied Chemistry",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "English Composition & Comprehension",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mining 2nd Semester | Total Credit Hours = 16.00",
+			"courseName": "General Geology",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Drawing & CAD",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Applied Electricity",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Workshop Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+		
+	],
+	[
+		{	"_comment": "Mining 3rd Semester | Total Credit Hours = 17.00",
+			"courseName": "Principles of Explosive Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mineralogy & Petrology",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Applications Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechanics of Solids -I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Fluid Mechanics-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Mining 4th Semester | Total Credit Hours = 17.00",
+			"courseName": "Utilization of Industrial Minerals",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Rock Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Geology Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Probability & Statistics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Applied Thermodynamics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName":"Computer Programming Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Mining 5th Semester | Total Credit Hours = 18.00",
+			"courseName": "Structural Geology",
+			"theoryCredits": 2,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Surface Mine Design",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Underground Mine Design",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mine Design Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mine Surveying-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Geostatistical Ore Reserve Estimation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+		
+	],
+	[
+		{	"_comment": "Mining 6th Semester | Total Credit Hours = 19.00",
+			"courseName": "Mine Economics & Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mine Surveying-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Coal Technology",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mineral Processing-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Free Elective**",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mining 7th Semester | Total Credit Hours = 19.00",
+			"courseName": "Strata Control and Rock Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mine Power Drainage & Material Handling",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mineral Processing-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mine Ventilation",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Departmental Elective-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mining 8th Semester | Total Credit Hours = 15.00",
+			"courseName": "Technical Report Writing",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Mine Rescue & Safety",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mining Laws",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mine Rescue Safety & Ventilation Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Departmental Elective-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		
+	]
+	
+]

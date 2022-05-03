@@ -1,0 +1,266 @@
+[
+	[  
+		{ "_comment": "Agri 1st Semester | Total Credit Hours = 17.00",
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Basic Agriculture",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fundamental of Computer & Applications",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Drawing & Graphics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        ,
+		{
+			"courseName": "Engineering Workshops",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+        
+	],
+	[
+		{	"_comment": "Agri 2nd Semester | Total Credit Hours = 18.00",
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "English Composition & Comprehension",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Soil Science",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechanics of Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Agri 3rd Semester | Total Credit Hours = 16.00",
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Surveying-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Soil & Water Conservation Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Fluid Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Programming",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Aided Design",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Agri 4th Semester | Total Credit Hours = 17.00",
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Machine Design",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Quantity Survey and Cost Estimation",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Surveying-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Geotechnical Engineering-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        
+	],
+	[
+		{	"_comment": "Agri 5th Semester | Total Credit Hours = 16.00",
+			"courseName": "Probability and Statistics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Economics & Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Agricultural Processing Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Hydrology",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Alternate Energy Resources",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Environmental Engineering-I",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+        
+	],
+	[
+		{	"_comment": "Agri 6th Semester | Total Credit Hours = 17.00",
+			"courseName": "Communication and Presentation Skills",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Ground Water Hydrology",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Farm Irrigation Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Farm Machinery & Earth Moving Equipment",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Environmental Engineering-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Agri 7th Semester | Total Credit Hours = 17.00",
+			"courseName": "GIS and Remote Sensing",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Farm Power",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Landscape Engineering",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Drainage Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Irrigation Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+	],
+	[
+		{	"_comment": "Agri 8th Semester | Total Credit Hours = 18.00",
+			"courseName": "Open Channel Hydraulics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Design of Agricultural Machinery",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Farm Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		,
+		{
+			"courseName": "On-Farm Water Management",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Environment and Sustainability",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+		
+		
+		
+	]
+]

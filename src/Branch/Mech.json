@@ -1,0 +1,262 @@
+[
+	[
+		{	"_comment": "Mechanical 1st Semester | Total Credit Hours = 17.00",
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "English Composition and Comprehension",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Prog. for Mechanical Engg.",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical and Electronicss Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop Practice",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Mechanical 2nd Semester | Total Credit Hours = 18.00",
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Communication and Presentation Skills",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Statics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Thermodynamics-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Drawing and Graphics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mechanics of Materials-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		
+	],
+	[
+		{	"_comment": "Mechanical 3rd Semester | Total Credit Hours = 19.00",
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Dynamics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mechanics of Materials-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "CAD-I",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Thermodynamics-II",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fluid Mechanics-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Entrepreneurship",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechanical 4th Semester | Total Credit Hours = 14.00",
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Metallurgy",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Design of Machine Elements-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fluid Mechanics-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Mechanical 5th Semester | Total Credit Hours = 19.00",
+			"courseName": "Probability and Statistics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Design of Machine Elements-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechanics of Machines and Vibration",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Economics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Manufacturing Processes",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+		
+	],
+	[
+		{	"_comment": "Mechanical 6th Semester | Total Credit Hours = 17.00",
+			"courseName": "Ethical & Legal Dimensions of Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Quality Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Power Plants-I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Mechatronics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "CAD-II",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Technical Report Writing",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechanical 7th Semester | Total Credit Hours = 19.00",
+			"courseName": "Production Automation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Power Plants-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Heat and Mass Transfer",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Heating, Ventilating and Air Conditioning",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Measurement and Instrumentation",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechanical 8th Semester | Total Credit Hours = 13.00",
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Heat Transfer and HVAC Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Control Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Measurement, Instrumentation & Control Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Industrial Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Health, Safety and Environment",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+		
+	]
+	
+]

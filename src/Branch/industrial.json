@@ -1,0 +1,246 @@
+[
+	[  
+		{ "_comment": "Industrial 1st Semester | Total Credit Hours = 18.00",
+			"courseName": "English Composition and Comprehension",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Industrial Electronics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Islamic Studies/Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Drawing and Graphics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Computing",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        ,
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        
+	],
+	[
+		{	"_comment": "Industrial 2nd Semester | Total Credit Hours = 17.00",
+			"courseName": "Presentation & Communication Skills",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Computing",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Workshop Practice",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Materials Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Applied Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Industrial 3rd Semester | Total Credit Hours = 17.00",
+			"courseName": "Engineering Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Probability and Statistics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Logical and Critical Thinking*",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Thermo-fluids",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Mechanics of Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Industrial 4th Semester | Total Credit Hours = 17.00",
+			"courseName": "Engineering Economics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Metrology and Statistical Quality Control",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Machine Design and CAD",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Manufacturing Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Technical Writing and Presentation",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        
+	],
+	[
+		{	"_comment": "Industrial 5th Semester | Total Credit Hours = 18.00",
+			"courseName": "Operation of Manufacturing Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Numerical Analysis & Computer Applications",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Manufacturing Processes",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Operation Research",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Work Study and Methods",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+        
+	],
+	[
+		{	"_comment": "Industrial 6th Semester | Total Credit Hours = 15.00",
+			"courseName": "Industrial System Simulations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Production Planning and Control",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Project Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Human Factor Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Aided Manufacturing",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Industrial 7th Semester | Total Credit Hours = 17.00",
+			"courseName": "Design of Experiments",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Industrial Facilities Design",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Instrumentation and Control",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+	],
+	[
+		{	"_comment": "Industrial 8th Semester | Total Credit Hours = 17.00",
+			"courseName": "Environment, Maintenance and Safety",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		,
+		{
+			"courseName": "Elective IV",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+		
+		
+		
+	]
+]

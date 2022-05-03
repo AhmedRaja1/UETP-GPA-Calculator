@@ -1,0 +1,233 @@
+[
+	[  
+		{ "_comment": "Ecom 1st Semester | Total Credit Hours = 18.00",
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electricity and Magnetism",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Drawing",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Fundamentals",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "English Composition & Comprehension",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Ecom 2nd Semester | Total Credit Hours = 17.00",
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Workshop Technology",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Ecom 3rd Semester | Total Credit Hours = 17.00",
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Digital Logic Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Circuit Analysis-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Oops and Data Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Communication & Presentation Skills",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Ecom 4th Semester | Total Credit Hours = 18.00",
+			"courseName": "Probability & Random Variables",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Microprocessor & Microcontroller Based System Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Circuit Analysis-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electronic Devices & Circuits",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Ecom 5th Semester | Total Credit Hours = 17.00",
+			"courseName": "Electrical Measurement & Instrumentation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electromagnetic Field Theory",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electronic Circuits - II (Breadth Core-II)",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Economics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Complex Variables & Transforms",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Ecom 6th Semester | Total Credit Hours = 17.00",
+			"courseName": "Signals & Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Technical Report Writing",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Data Communication",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Management",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Communication Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Ecom 7th Semester | Total Credit Hours = 15.00",
+			"courseName": "Computer Communication Networks",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Electrical Machines",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Ecom 8th Semester | Total Credit Hours = 17.00",
+			"courseName": "Control Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Elective - III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		,
+		{
+			"courseName": "Elective - IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+		
+		
+		
+		
+	]
+]

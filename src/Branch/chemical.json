@@ -1,0 +1,268 @@
+[
+  [
+    { "_comment": "Chemical 1st Semester | Total Credit Hours = 16.00",
+      "courseName": "Applied Physics",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Functional English",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Islamic Studies",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Linear Algebra",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+    ,
+    {
+      "courseName": "Chemical process Industries",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    }
+    
+  ],
+  [
+    { "_comment": "Chemical 2nd Semester | Total Credit Hours = 16.00",
+      "courseName": "Physical & Analytical Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Communication Skills",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Pakistan Studies",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Calculus",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Computer Fundamentals",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Engineering Workshop",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    }
+    ,
+    {
+      "courseName": "Chemical Process Calculations-I",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    }
+  ],
+  [
+    { "_comment": "Chemical 3rd Semester | Total Credit Hours = 17.00",
+      "courseName": "Organic & Inorganic Chemistry",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Computer Programming",
+      "theoryCredits": 0,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Electrical Engineering",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Process Calculations-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Fluid Mechanics-I",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Particle Technology",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    }
+  ],
+  [
+    { "_comment": "Chemical 4th Semester | Total Credit Hours = 17.00",
+      "courseName": "Differential Equation",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Engineering Drawing & CAD",
+      "theoryCredits": 1,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Mass Transfer",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Fuels & Energy Engineering",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Heat Transfer-I",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemical Engineering Thermodynamics-I",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    }
+  ],
+  [
+    { "_comment": "Chemical 5th Semester | Total Credit Hours = 19.00",
+      "courseName": "Chemical Engineering Thermodynamics-II",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Fluid Mechanics-II",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Separation Processes-I",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Engineering Materials",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Heat Transfer-II",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Engineering Economics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Professional Ethics",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    }
+    
+  ],
+  [
+    { "_comment": "Chemical 6th Semester | Total Credit Hours = 16.00",
+      "courseName": "Numerical Analysis",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Plant Safety & Maintenance Engg.",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Statistics and Experimental Design",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Process Design & Simulation",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Chemical Reaction Engineering",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Tech: Report Writing & Presentation Skills",
+      "theoryCredits": 1,
+      "practicalCredits": 1
+    }
+  ],
+  [
+    { "_comment": "Chemical 7th Semester | Total Credit Hours = 16.00",
+      "courseName": "Industrial Management",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Process Analysis & Optimization",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Separation Processes-II",
+      "theoryCredits": 2,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Elective-I",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Chemical Engg Plant Design",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Final Year Project-I",
+      "theoryCredits": 0,
+      "practicalCredits": 3
+    }
+  ],
+  [
+    { "_comment": "Chemical 8th Semester | Total Credit Hours = 18.00",
+      "courseName": "Transport Phenomena",
+      "theoryCredits": 3,
+      "practicalCredits": 0
+    },
+    {
+      "courseName": "Instrumentation & Process Control",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Elective-II",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    }
+    ,
+    {
+      "courseName": "Environmental Engineering",
+      "theoryCredits": 3,
+      "practicalCredits": 1
+    },
+    {
+      "courseName": "Final Year Project-II",
+      "theoryCredits": 0,
+      "practicalCredits": 3
+    },
+    {
+      "courseName": "Entrepreneurship in Chemical Engg.",
+      "theoryCredits": 2,
+      "practicalCredits": 0
+    }
+  ]
+]

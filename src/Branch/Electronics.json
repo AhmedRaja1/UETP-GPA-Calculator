@@ -1,0 +1,233 @@
+[
+	[  
+		{ "_comment": "Electonics 1st Semester | Total Credit Hours = 17.00",
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "English Composition & Comprehension",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Applied Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Computers & Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Basic Electrical Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Electonics 2nd Semester | Total Credit Hours = 16.00",
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Communication Skills",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Object Oriented Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electronics Workshop",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Electonics 3rd Semester | Total Credit Hours = 19.00",
+			"courseName": "Electronics Circuits-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Complex variables",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Digital Logic Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Circuit Analysis-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electrical Machines",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{ "_comment": "Electonics 4th Semester | Total Credit Hours = 17.00",
+			"courseName": "Probability and Random Variables",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Circuit Analysis-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Economics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electromagnetic Field Theory",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Aided Engineering Design",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+    ,
+		{
+			"courseName": "Microprocessor Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Electonics 5th Semester | Total Credit Hours = 19.00",
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Instrumentation & Measurements",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Electronics Circuits-II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Power Electronics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Signals and Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Electonics 6th Semester | Total Credit Hours = 18.00",
+			"courseName": "VLSI Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Technical Report Writing & Presentation Skills",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Analog & Digital Communications",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Signal Processing",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Control Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Electonics 7th Semester | Total Credit Hours = 15.00",
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Principles of Management",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+	],
+	[
+		{	"_comment": "Electonics 8th Semester | Total Credit Hours = 13.00",
+			"courseName": "Elective-III",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "OptoElectronics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Elective-IV",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		,
+		{
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+		
+		
+		
+	]
+]

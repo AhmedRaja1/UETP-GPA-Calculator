@@ -1,0 +1,258 @@
+[
+	[
+		{	"_comment": "Mechatronics 1st Semester | Total Credit Hours = 16.00",
+			"courseName": "Calculus & Analytical Geometry",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Statics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Workshop Practice",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electric Circuits Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Communication Skills",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechatronics 2nd Semester | Total Credit Hours = 18.00",
+			"courseName": "ODE & Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Drawing",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Applied Physics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Computer Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Technical Report Writing",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Organizational Behaviour",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+		
+		
+	],
+	[
+		{	"_comment": "Mechatronics 3rd Semester | Total Credit Hours = 20.00",
+			"courseName": "Vector Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Dynamics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electronic Principles & Devices",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Materials & Manufacturing Processes",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Data Structures and Object Oriented Programming",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Solid Modeling",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechatronics 4th Semester | Total Credit Hours = 19.00",
+			"courseName": "Transforms & Complex Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electronic Circuits Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Signals and Systems",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechanics of Materials",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Actuating Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Digital Logic Design",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechatronics 5th Semester | Total Credit Hours = 20.00",
+			"courseName": "Probability Methods in Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fluid Mechanics, Hydraulics and Pneumatics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Microcontrollers and Embedded Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Transducers & Instrumentation",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Modeling and Simulation",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Theory of Machines",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		
+	],
+	[
+		{	"_comment": "Mechatronics 6th Semester | Total Credit Hours = 19.00",
+			"courseName": "Numerical Methods",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Power Electronics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Design of Machine Elements",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechatronics Systems Design",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Control Systems",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Fundamentals of Thermal Sciences",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Mechatronics 7th Semester | Total Credit Hours = 16.00 |18.00",
+			"courseName": "Robotics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Entrepreneurship, Leadership and Team Mgt",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Elective II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Economics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Community Service Learning",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Mechatronics 8th Semester | Total Credit Hours = 9.00",
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Engineering Elective III",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Industrial Automation",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		}
+		
+	]
+	
+]

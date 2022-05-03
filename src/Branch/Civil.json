@@ -1,0 +1,277 @@
+[
+	[
+		{	"_comment": "Civil 1st Semester | Total Credit Hours = 16.00",
+			"courseName": "Islamic Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Linear Algebra",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Functional English",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Electrical Technology",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mech. Tech. & Heavy Construction Machinery",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Drawing for Civil Engineers",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Civil Engineering Materials",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Civil 2nd Semester | Total Credit Hours = 18.00",
+			"courseName": "Engineering Mechanics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Differential Equations",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Building Construction Engineering",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Calculus",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Computer Programing for Civil Engineers",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Concrete Technology",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Pakistan Studies",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+		
+	],
+	[
+		{	"_comment": "Civil 3rd Semester | Total Credit Hours = 17.00",
+			"courseName": "Mechanics of Solids – I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Engineering Geology & Seismology",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Introduction to Architecture & Urban Planning",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Surveying – I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Probability & Statistics",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Communication and Presentation Skills",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Civil 4th Semester | Total Credit Hours = 18.00",
+			"courseName": "Numerical Analysis",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Structural Analysis - I",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Building Information Modeling (BIM)",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Mechanics of Solids - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fluid Mechanics – I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Surveying – II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Civil 5th Semester | Total Credit Hours = 18.00",
+			"courseName": "Transportation Engineering – I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Fluid Mechanics – II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Structural Analysis - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Environmental Engineering – I",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "GIS & Remote Sensing",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Geotechnical Engineering – I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Civil Engineering Software Application",
+			"theoryCredits": 1,
+			"practicalCredits": 0
+		}
+		
+	],
+	[
+		{	"_comment": "Civil 6th Semester | Total Credit Hours = 17.00",
+			"courseName": "Transportation Engineering - II",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Environmental Engineering - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Hydraulics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Reinforced Concrete Design - I",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Geotechnical Engineering - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Professional Ethics",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		}
+	],
+	[
+		{	"_comment": "Civil 7th Semester | Total Credit Hours = 17.00",
+			"courseName": "Foundation Engineering",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Intro. to Str. Dynamics & Earthquake Engg.",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Reinforced Concrete Design - II",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Engineering Hydrology",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Quantity Surveying & Civil Engineering Practice",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-1",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		},
+		{
+			"courseName": "Hydraulics and Hydrology Lab",
+			"theoryCredits": 0,
+			"practicalCredits": 1
+		}
+	],
+	[
+		{	"_comment": "Civil 8th Semester | Total Credit Hours = 15.00",
+			"courseName": "Construction Management & Engg. Economics",
+			"theoryCredits": 3,
+			"practicalCredits": 1
+		},
+		{
+			"courseName": "Steel Structures",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Sustainable Dev. & Disaster Risk Management",
+			"theoryCredits": 2,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Irrigation Engineering",
+			"theoryCredits": 3,
+			"practicalCredits": 0
+		},
+		{
+			"courseName": "Final Year Project-2",
+			"theoryCredits": 0,
+			"practicalCredits": 3
+		}
+		
+	]
+	
+]
